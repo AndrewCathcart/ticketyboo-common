@@ -1,6 +1,6 @@
 {
   "name": "@ticketyboo/common",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Common library for the ticketyboo app.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
