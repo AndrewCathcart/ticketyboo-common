@@ -7,9 +7,9 @@ interface Color {
 const color: Color = {
   red: 10,
   blue: 10,
-  green: 5
-}
+  green: 6,
+};
 
 console.log(color);
 
-export default color
+export default color;
